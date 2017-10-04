@@ -1,0 +1,14 @@
+body {
+    background-color: cadetblue;
+    font-family: helvetica;
+}
+
+.axis--x path {
+  display: none;
+}
+
+.line {
+  fill: none;
+  stroke: lightpink !important;
+  stroke-width: 1.5px;
+}
