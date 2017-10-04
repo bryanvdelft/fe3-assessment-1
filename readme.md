@@ -40,10 +40,10 @@ From: [Link](https://github.com/bryanvdelft/course-17-18/tree/master/assessment-
 
 ## Sources
 
-[Multi-Series Line Chart](https://bl.ocks.org/mbostock/3884955)
-[D3 API Reference](https://github.com/d3/d3/blob/master/API.md#time-formats-d3-time-format)
-[Slack CMD Information](https://cmdinformationdesign.slack.com/messages/C6X4TNPQA/)
-[Assessment1](https://github.com/bryanvdelft/course-17-18/tree/master/assessment-1)
+* [Multi-Series Line Chart](https://bl.ocks.org/mbostock/3884955)
+* [D3 API Reference](https://github.com/d3/d3/blob/master/API.md#time-formats-d3-time-format)
+* [Slack CMD Information](https://cmdinformationdesign.slack.com/messages/C6X4TNPQA/)
+* [Assessment1](https://github.com/bryanvdelft/course-17-18/tree/master/assessment-1)
 
 ## License 
 
