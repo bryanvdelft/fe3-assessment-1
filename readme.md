@@ -1,6 +1,9 @@
 # Assessment 1
 
 Homogenised monthly temperature time series of De Bilt (1901-present). Cleaned from [knmi.nl.](knmi.nl)
+From: [Link](https://github.com/bryanvdelft/course-17-18/tree/master/assessment-1)
+
+![cover](preview.png)
 
 ## Files
 * index.html
@@ -40,6 +43,7 @@ Homogenised monthly temperature time series of De Bilt (1901-present). Cleaned f
 [Multi-Series Line Chart](https://bl.ocks.org/mbostock/3884955)
 [D3 API Reference](https://github.com/d3/d3/blob/master/API.md#time-formats-d3-time-format)
 [Slack CMD Information](https://cmdinformationdesign.slack.com/messages/C6X4TNPQA/)
+[Assessment1](https://github.com/bryanvdelft/course-17-18/tree/master/assessment-1)
 
 ## License 
 
